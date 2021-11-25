@@ -1,1 +1,3 @@
 slot 1.1
+slot 1.2
+alot 1.3
